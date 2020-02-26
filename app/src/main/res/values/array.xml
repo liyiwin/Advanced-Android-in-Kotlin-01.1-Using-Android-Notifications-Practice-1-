@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="egg_array">
+
+        <item>就讓它整個焦掉吧,焦掉的比較香</item>
+
+        <item>正常的料理比較適合我</item>
+
+        <item>五分熟</item>
+
+        <item>三分熟</item>
+
+        <item>我喜歡吃生蛋</item>
+
+    </string-array>
+
+
+    <integer-array name="times">
+
+        <item>15</item>
+
+        <item>5</item>
+
+        <item>3</item>
+
+        <item>1</item>
+
+        <item>0</item>
+
+    </integer-array>
+
+</resources>
